@@ -40,4 +40,14 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
   </a>
 </p>
 
+## **Estadísticas**
+<br>
+<p>
+    <a align="left">
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsunaMina&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="AsunaMina" /></p>
+    </a>
+    <a align="right">
+      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AsunaMina&show_icons=true&theme=dark&locale=en" alt="AsunaMina" /></p>
+    </a>  
+</p>
 
