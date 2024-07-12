@@ -40,6 +40,7 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
   </a>
 </p>
 
+
 ## **Estadísticas**
 <br>
 <p>
@@ -50,4 +51,3 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
       <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AsunaMina&show_icons=true&theme=dark&locale=en" alt="AsunaMina" /></p>
     </a>  
 </p>
-
