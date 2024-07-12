@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/AsunaMina/AsunaMina/main/portada.gif" alt="GIF animado">
 </div>
 
-## **About me**
+## **Acerca de mí**
 <br>
 
  🌟 Estudiante de 9º ciclo de Ingeniería de Software en la Universidad Tecnológica del Perú
@@ -22,3 +22,17 @@
  📬 Para contactarme, visita mi [LinkedIn](https://www.linkedin.com/in/angie-mina-ishuiza/)
  
 En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecnologías, o realizando proyectos de desarrollo de software.
+
+## **Proyectos destacados**
+<br>
+
+-
+
+-
+
+-
+
+## **Lenguajes y Herramientas**
+<br>
+
+
