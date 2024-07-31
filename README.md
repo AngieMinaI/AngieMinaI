@@ -36,7 +36,7 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c++,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,vscode,linux,autocad,discord,figma,gmail,godot,kali,linkedin,rabbitmq,regex,sublime,ubuntu,windows,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,vscode,linux,autocad,discord,figma,gmail,godot,kali,linkedin,rabbitmq,regex,sublime,ubuntu,windows,&perline=12" />
   </a>
 </p>
 
