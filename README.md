@@ -26,9 +26,9 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 ## **Proyectos destacados**
 <br>
 
--[Videojuego: Ancient Wari](https://github.com/AngieMinaI/Videojuego-Ancient-Wari)
+- [Videojuego: Ancient Wari](https://github.com/AngieMinaI/Videojuego-Ancient-Wari)
 
--[Aplicación Web: Simulador de préstamos personales](https://github.com/AngieMinaI/Simulador-de-prestamos)
+- [Aplicación Web: Simulador de préstamos personales](https://github.com/AngieMinaI/Simulador-de-prestamos)
 
 -
 
