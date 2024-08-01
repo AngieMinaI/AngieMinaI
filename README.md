@@ -27,10 +27,12 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 <br>
 
 - [Videojuego: Ancient Wari](https://github.com/AngieMinaI/Videojuego-Ancient-Wari)
+  
+- [Ecommerce:Techno Isha](https://github.com/AngieMinaI/Ecommerce-de-Techno-Isha)
 
 - [Aplicación Web: Simulador de préstamos personales](https://github.com/AngieMinaI/Simulador-de-prestamos)
 
--
+
 
 ## **Lenguajes y Herramientas**
 <br>
