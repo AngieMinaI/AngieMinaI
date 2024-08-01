@@ -48,6 +48,6 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AngieMinaI&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="AngieMinaI" /></p>
     </a>
     <a align="right">
-      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AngieMinaI&show_icons=true&theme=dark&locale=en" alt="AngieMinaI" /></p>
+      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngieMinaI&show_icons=true&theme=dark" /></p>
     </a>  
 </p>
