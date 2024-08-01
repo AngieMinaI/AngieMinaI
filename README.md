@@ -19,7 +19,7 @@
 
  💡 Enfocada en el desarrollo de videojuegos y en inteligencia artificial
 
- 📬 Para contactarme, visita mi [LinkedIn](https://www.linkedin.com/in/angie-mina-ishuiza/)
+ 📬 Para saber más sobre mis proyectos y redes, visita mi [Sitio Web](https://linktr.ee/angieminaishuiza)
  
 En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecnologías, o realizando proyectos de desarrollo de software.
 
