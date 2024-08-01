@@ -44,10 +44,10 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 ## **Estadísticas**
 <br>
 <p>
-    <a align="left">
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AngieMinaI&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="AngieMinaI" /></p>
+        <a align="left">
+        <p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AngieMinaI&theme=react&hide_border=true&bg_color=0D1117&no-bg=true&no-frame=true&langs_count=40" />
     </a>
     <a align="right">
-      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngieMinaI&show_icons=true&theme=dark" /></p>
+      &nbsp; <img alt="AngieMinaI Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngieMinaI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&langs_count=40"/>
     </a>  
 </p>
