@@ -19,16 +19,16 @@
 
  💡 Enfocada en el desarrollo de videojuegos y en inteligencia artificial
 
- 📬 Para saber más sobre mis proyectos y redes, visita mi [Sitio Web](https://linktr.ee/angieminaishuiza)
+ 📬 Para saber más sobre mis proyectos y redes, visita mi [sitio web](https://linktr.ee/angieminaishuiza)
  
 En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecnologías, o realizando proyectos de desarrollo de software.
 
 ## **Proyectos destacados**
 <br>
 
--
+-[Videojuego: Ancient Wari](https://github.com/AngieMinaI/Videojuego-Ancient-Wari)
 
--
+-[Aplicación Web: Simulador de préstamos personales](https://github.com/AngieMinaI/Simulador-de-prestamos)
 
 -
 
