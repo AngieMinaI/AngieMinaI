@@ -47,7 +47,7 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 <br>
 <p>
         <a align="left">
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngieMinaI&theme=react&hide_border=true&bg_color=0D1117&no-bg=true&no-frame=true&langs_count=40" />
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngieMinaI&theme=react&hide_border=true&bg_color=0D1117&no-bg=true&no-frame=true&langs_count=30" />
     </a>
     <a align="right">
       &nbsp; <img alt="AngieMinaI Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngieMinaI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&langs_count=40"/>
