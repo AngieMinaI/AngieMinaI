@@ -26,11 +26,11 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 ## **Proyectos destacados**
 <br>
 
-- [Videojuego: Ancient Wari](https://github.com/AngieMinaI/Videojuego-Ancient-Wari)
+- [Análisis de películas y TV de IMDB](https://colab.research.google.com/drive/1BjU5O1YzJSi2xjJ1ucCnc2K3mR_udG-C?usp=sharing)
   
 - [Ecommerce:Techno Isha](https://github.com/AngieMinaI/Ecommerce-de-Techno-Isha)
 
-- [Aplicación Web: Simulador de préstamos personales](https://github.com/AngieMinaI/Simulador-de-prestamos)
+- [Videojuego: Aliens vs Spaceship](https://github.com/AngieMinaI/AngieMinaI.github.io-AliensvsSpaceship)
 
 
 
