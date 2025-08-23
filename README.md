@@ -40,6 +40,8 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,mysql,sqlite,git,github,vscode,linux,discord,figma,gmail,godot,kali,linkedin,rabbitmq,regex,sublime,ubuntu,windows,&perline=12" />
   </a>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="48" height="48"/>
 </p>
 
 
