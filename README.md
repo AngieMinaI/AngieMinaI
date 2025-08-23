@@ -11,15 +11,15 @@
 ## **Acerca de mí**
 <br>
 
- 🌟 Estudiante de 9º ciclo de Ingeniería de Software en la Universidad Tecnológica del Perú
+ 🌟 Estudiante de 10º ciclo de Ingeniería de Software en la Universidad Tecnológica del Perú.
 
- 🎓 Décimo superior en la carrera
+ 🎓 Décimo superior en la carrera.
 
- 👩‍🏫 Mentora de estudiantes de primer ciclo en mi universidad
+ 👩‍🏫 Mentora de estudiantes de primer ciclo en UTP y UTEC.
 
- 💡 Enfocada en el desarrollo de videojuegos y en inteligencia artificial
+ 💡 Enfocada en áreas como gestión de proyectos, desarrollo web, auditoría de sistemas, aseguramiento de la calidad de software y ciencia de datos.
 
- 📬 Para saber más sobre mis proyectos y redes, visita mi [sitio web](https://linktr.ee/angieminaishuiza)
+ 📬 Para saber más sobre mis proyectos y redes, visita mi [portafolio](https://angieminai.github.io/AngieMinaI.github.io-MiPortafolio/)
  
 En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecnologías, o realizando proyectos de desarrollo de software.
 
