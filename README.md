@@ -32,7 +32,7 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 
 - [Videojuego: Aliens vs Spaceship](https://github.com/AngieMinaI/AngieMinaI.github.io-AliensvsSpaceship)
 
--[Videojuego:Ancient Wari](https://github.com/AngieMinaI/Videojuego-Ancient-Wari) 
+- [Videojuego:Ancient Wari](https://github.com/AngieMinaI/Videojuego-Ancient-Wari) 
 
 
 
