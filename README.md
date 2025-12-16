@@ -11,17 +11,19 @@
 ## **Acerca de mí**
 <br>
 
- 🌟 Estudiante de 10º ciclo de Ingeniería de Software en la Universidad Tecnológica del Perú.
+ 🌟 Egresada de Ingeniería de Software en la Universidad Tecnológica del Perú.
 
  🎓 Décimo superior en la carrera.
 
  👩‍🏫 Mentora de estudiantes de primer ciclo en UTP y UTEC.
 
+ 👩‍🏫 Presidenta & Fundadora de [Game Devs UTP](https://game-devs-utp.itch.io/)
+
  💡 Enfocada en áreas como gestión de proyectos, desarrollo web, auditoría de sistemas, aseguramiento de la calidad de software y ciencia de datos.
 
  📬 Para saber más sobre mis proyectos y redes, visita mi [portafolio](https://angieminai.github.io/AngieMinaI.github.io-MiPortafolio/)
  
-En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecnologías, o realizando proyectos de desarrollo de software.
+En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecnologías, o realizando proyectos de desarrollo de videojuegos.
 
 ## **Proyectos destacados**
 <br>
