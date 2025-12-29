@@ -19,7 +19,7 @@
  
  👩‍🏫 Ex-Becaria y Talento Guía de PRONABEC.
 
- 💡 Enfocada en áreas como ciencia de datos, análisis de datosgestión de proyectos, desarrollo de videojuegos y gestión de proyectos.
+ 💡 Enfocada en áreas como ciencia de datos, análisis de datos, desarrollo de videojuegos y gestión de proyectos.
 
  📬 Para saber más sobre mis proyectos y redes, visita mi [portafolio](https://angieminai.github.io/AngieMinaI.github.io-MiPortafolio/)
  
