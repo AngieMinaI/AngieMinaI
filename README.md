@@ -15,11 +15,11 @@
 
  🎓 Décimo superior en la carrera.
 
- 👩‍🏫 Mentora de estudiantes de primer ciclo en UTP y UTEC.
-
  👩‍🏫 Presidenta & Fundadora de [Game Devs UTP](https://game-devs-utp.itch.io/)
+ 
+ 👩‍🏫 Ex-Becaria y Talento Guía de PRONABEC.
 
- 💡 Enfocada en áreas como gestión de proyectos, desarrollo web, auditoría de sistemas, aseguramiento de la calidad de software y ciencia de datos.
+ 💡 Enfocada en áreas como ciencia de datos, análisis de datosgestión de proyectos, desarrollo de videojuegos y gestión de proyectos.
 
  📬 Para saber más sobre mis proyectos y redes, visita mi [portafolio](https://angieminai.github.io/AngieMinaI.github.io-MiPortafolio/)
  
