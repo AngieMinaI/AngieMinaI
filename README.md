@@ -21,7 +21,7 @@
 
  💡 Enfocada en áreas como ciencia de datos, análisis de datos, desarrollo de videojuegos y gestión de proyectos.
 
- 📬 Para saber más sobre mis proyectos y redes, visita mi [portafolio](https://angieminai.github.io/AngieMinaI.github.io-MiPortafolio/)
+ 📬 Para saber más sobre mis proyectos y redes, visita mi [Linktree](https://linktr.ee/angieminaishuiza)
  
 En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecnologías, o realizando proyectos de desarrollo de videojuegos.
 
