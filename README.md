@@ -28,7 +28,7 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 ## **Proyectos destacados**
 <br>
 
-- [Videojuego:Oro Manchado](https://eanxt.itch.io/oro-manchado) 
+- [Videojuego: Oro Manchado](https://eanxt.itch.io/oro-manchado) 
 
 - [Análisis de películas y TV de IMDB](https://colab.research.google.com/drive/1BjU5O1YzJSi2xjJ1ucCnc2K3mR_udG-C?usp=sharing)
   
@@ -43,6 +43,6 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,mysql,sqlite,git,github,vscode,linux,discord,figma,gmail,godot,kali,linkedin,rabbitmq,regex,sublime,ubuntu,windows,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,cs,java,php,py,css,html,js,mysql,sqlite,git,github,vscode,linux,discord,figma,gmail,unity,godot,kali,linkedin,rabbitmq,regex,sublime,ubuntu,windows,&perline=12" />
   </a>
 </p>
