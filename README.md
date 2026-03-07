@@ -21,12 +21,14 @@
 
  💡 Enfocada en áreas como ciencia de datos, análisis de datos, desarrollo de videojuegos y gestión de proyectos.
 
- 📬 Para saber más sobre mis proyectos y redes, visita mi [Linktree](https://linktr.ee/angieminaishuiza)
+ 📬 Para saber más sobre mis proyectos y redes, visita mi [Linktree](https://linktr.ee/asunamina)
  
 En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecnologías, o realizando proyectos de desarrollo de videojuegos.
 
 ## **Proyectos destacados**
 <br>
+
+- [Videojuego:Oro Manchado](https://eanxt.itch.io/oro-manchado) 
 
 - [Análisis de películas y TV de IMDB](https://colab.research.google.com/drive/1BjU5O1YzJSi2xjJ1ucCnc2K3mR_udG-C?usp=sharing)
   
@@ -34,7 +36,6 @@ En mis ratos libres, me encontrarás jugando videojuegos, explorando nuevas tecn
 
 - [Videojuego: Aliens vs Spaceship](https://github.com/AngieMinaI/AngieMinaI.github.io-AliensvsSpaceship)
 
-- [Videojuego:Ancient Wari](https://github.com/AngieMinaI/Videojuego-Ancient-Wari) 
 
 
 
