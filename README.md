@@ -17,7 +17,7 @@
 
  👩‍🏫 Presidenta & Fundadora de [Game Devs UTP](https://game-devs-utp.itch.io/)
  
- 👩‍🏫 Ex-Becaria y Talento Guía de PRONABEC.
+ 👩‍🏫 Ex-Becaria de PRONABEC.
 
  💡 Enfocada en áreas como ciencia de datos, análisis de datos, desarrollo de videojuegos y gestión de proyectos.
 
